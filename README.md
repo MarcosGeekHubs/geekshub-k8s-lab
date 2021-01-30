@@ -1,3 +1,10 @@
+githubs token cdeb0b664a7debf457c2c90f78f0e82079f6314c
+jenkins 5cd8c545095f46a8981fbc5b7dc5fe73
+
+Digest: sha256:fc00d0a7bbc704bec94b1551559a8be2ca64182e87026bf5520695a6eb48bb67
+Status: Downloaded newer image for docker:dind
+2ada613dbe75c04d85fb3cbe40a278ccc0063dc4c97976933ac29a70630ec61a
+
 # Container Orchestration 
 
 
